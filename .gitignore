@@ -2,7 +2,7 @@
 *.class
 .vscode
 .idea
-
+notebook
 # Log file
 *.log
 
